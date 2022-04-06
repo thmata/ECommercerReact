@@ -62,18 +62,18 @@ const Navbar = () => {
     <Container>
       <Wrapper>
         <Left>
-          <Language>EN</Language>
+          <Language>PT/BR</Language>
           <SearchContainer>
             <Input />
             <Search style={{ color: "gray", fontSize: "16px" }} />
           </SearchContainer>
         </Left>
         <Center>
-          <Logo>MataShoes </Logo>
+          <Logo>MataTech </Logo>
         </Center>
         <Right>
-          <MenuItem>REGISTER</MenuItem>
-          <MenuItem>SIGN IN</MenuItem>
+          <MenuItem>REGISTRAR</MenuItem>
+          <MenuItem>ENTRAR</MenuItem>
           <MenuItem>
             <Badge badgeContent={4} color="primary">
               <ShoppingCartOutlined />

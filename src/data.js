@@ -1,6 +1,5 @@
 
 
-
 export const sliderItems = [
     {
         id: 1,
@@ -26,6 +25,20 @@ export const sliderItems = [
 ]
 
 export const categories = [
-{}
+    {
+        id: 1,
+        img: (require ('./img/LIVROARDUINO.jpg')),
+        title: "SHIRT STYLE!",
+      },
+      {
+        id: 2,
+        img: (require('./img/LIVROARDUINO2.jpg')),
+        title: "LOUNGEWEAR LOVE",
+      },
+      {
+        id: 3,
+        img: (require('./img/LIVRORASP.jpg')),
+        title: "LIGHT JACKETS",
+      },
 
 ]

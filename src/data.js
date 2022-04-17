@@ -19,8 +19,13 @@ export const sliderItems = [
     {
         id: 3,
         img: (require ('./img/nvidea.jpg')),
-        title: 'KIT DE DESENVOLVIMENTO NVIDEA',
+        title: 'KIT DE DESENVOLVIMENTO NVIDIA',
         desc: 'Compre agora!!',
         bg: "f5fafd",
     }
+]
+
+export const categories = [
+{}
+
 ]

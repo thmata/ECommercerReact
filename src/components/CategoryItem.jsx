@@ -16,7 +16,6 @@ const Image = styled.img`
   height: 35.813rem;
   border: 1px solid #008080;
   border-radius: 10px;
-  border-opa
 `;
 const Info = styled.div`
   flex-direction: column;

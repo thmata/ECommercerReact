@@ -3,30 +3,33 @@ import React from "react";
 import styled from "styled-components";
 
 const Container = styled.div`
-  margin-left: 3rem;
   height: 70vh;
-  flex: 1;
   position: relative;
+  padding: 30px 90px;
 `;
 
 /* TAMANHO DA MENOR IMAGEM 584 x 818 */
 const Image = styled.img`
   object-fit: cover;
-  height: 52rem;
-  width: 34.438rem;
+  display: flex;
+  width: 25.5rem;
+  height: 35.813rem;
+  border: 1px solid #008080;
+  border-radius: 10px;
+  border-opa
 `;
 const Info = styled.div`
   flex-direction: column;
   align-items: center;
-  justify-content: center;
+  justify-content: space-between;
   display: flex;
 `;
 const Title = styled.h1`
   color: black;
 `;
 const Butao = styled.button`
-  border: none;
-  padding: 20px;
+  border: 1px solid black;
+  padding: 10px;
   background: transparent;
   cursor: pointer;
   color: grey;

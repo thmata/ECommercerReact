@@ -28,17 +28,17 @@ export const categories = [
     {
         id: 1,
         img: (require ('./img/LIVROARDUINO.jpg')),
-        title: "SHIRT STYLE!",
+        title: "PYTHON E ARDUINO",
       },
       {
         id: 2,
         img: (require('./img/LIVROARDUINO2.jpg')),
-        title: "LOUNGEWEAR LOVE",
+        title: "ARDUINO",
       },
       {
         id: 3,
         img: (require('./img/LIVRORASP.jpg')),
-        title: "LIGHT JACKETS",
+        title: "RASPBERRY",
       },
 
 ]

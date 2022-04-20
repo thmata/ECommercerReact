@@ -5,7 +5,7 @@ import { useState } from "react";
 
 const Container = styled.div`
   width: 100%;
-  height: 70vh;
+  height: 80vh;
   display: flex;
   position: relative;
   overflow: hidden;

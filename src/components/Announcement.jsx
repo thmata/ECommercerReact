@@ -6,7 +6,7 @@ const Container = styled.div`
   color: white;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-between;
   font-size: 14px;
   font-weight: 500;
 `;

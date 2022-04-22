@@ -82,7 +82,27 @@ export const popularProducts = [
   {
     /* KIT ARDUINO */
     id: 8,
-    img : (require('./img/products/007.jpg')),
+    img : (require('./img/products/008.jpg')),
+  },
+  {
+    /* KIT ARDUINO */
+    id: 9,
+    img : (require('./img/products/009.jpg')),
+  },
+  {
+    /* KIT ARDUINO */
+    id: 10,
+    img : (require('./img/products/010.jpg')),
+  },
+  {
+    /* KIT ARDUINO */
+    id: 11,
+    img : (require('./img/products/011.jpg')),
+  },
+  {
+    /* KIT ARDUINO */
+    id: 12,
+    img : (require('./img/products/012.jpg')),
   },
 ]
 
